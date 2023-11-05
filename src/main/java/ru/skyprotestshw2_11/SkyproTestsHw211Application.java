@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SkyproTestsHw211Application {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SkyproTestsHw211Application.class, args);
 	}
 
